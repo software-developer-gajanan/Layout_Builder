@@ -1,3 +1,3 @@
 **Layout Builder App**
 
-Publish link: https://layour0gk.ccbp.tech/
+Publish Link: https://layour0gk.ccbp.tech/
